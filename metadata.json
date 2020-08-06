@@ -1,0 +1,9 @@
+{
+    "name": "first",
+    "description": "first extension",
+    "uuid": "1st@mdo.ubuntu.com",
+    "shell-version": [
+      "3.36"
+    ]
+  }
+  
