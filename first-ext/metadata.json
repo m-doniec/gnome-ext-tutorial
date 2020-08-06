@@ -1,8 +1,0 @@
-{
-  "name": "First Extension",
-  "description": "The first one",
-  "uuid": "first-ext",
-  "shell-version": [
-    "3.36"
-  ]
-}
